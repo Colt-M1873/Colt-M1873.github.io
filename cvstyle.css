@@ -8,6 +8,11 @@ html {
   height: 100%;
 }
 
+a{
+  text-decoration: none;
+  color: #000;
+}
+
 body {
   min-height: 100%;
   background: #eee;
@@ -45,6 +50,9 @@ body {
 }
 .header .contact-info {
   margin-bottom: 20px;
+}
+.header .select-language {
+  float:right;
 }
 .header .email,
 .header .phone {
