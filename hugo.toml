@@ -18,6 +18,7 @@ pygmentsUseClasses = true
   title = "NerdyResearch"
   description = "NerdyResearch —— 记录技术学习与思考"
   keywords = ["Blog", "Tech", "NerdyResearch"]
+  mainSections = ["posts"]
   author = "NerdyResearch"
   DateFormat = "2006-01-02"
   defaultTheme = "auto"
@@ -67,6 +68,12 @@ pygmentsUseClasses = true
   name = "文章"
   url = "/posts/"
   weight = 10
+
+[[menu.main]]
+  identifier = "research"
+  name = "研究"
+  url = "/research/"
+  weight = 15
 
 [[menu.main]]
   identifier = "archives"
