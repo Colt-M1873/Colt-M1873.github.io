@@ -76,6 +76,12 @@ pygmentsUseClasses = true
   weight = 15
 
 [[menu.main]]
+  identifier = "rdagent"
+  name = "RD-Agent"
+  url = "/rdagent/"
+  weight = 17
+
+[[menu.main]]
   identifier = "archives"
   name = "归档"
   url = "/archives/"
