@@ -71,7 +71,7 @@ pygmentsUseClasses = true
 
 [[menu.main]]
   identifier = "research"
-  name = "研究"
+  name = "CS2-TradeBot"
   url = "/research/"
   weight = 15
 
